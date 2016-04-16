@@ -25,6 +25,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'react-rails'
 
+gem 'haml'
+gem 'activeresource'
+
 gem 'devise'
 
 # Use ActiveModel has_secure_password
